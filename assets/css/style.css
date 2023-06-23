@@ -89,7 +89,7 @@ aside {
 }
 
 /* Updated from .benefits and three separate classes to refer to semantic element aside and section */
-aside section{
+aside section {
     margin-bottom: 32px;
     color: #ffffff;
 }
@@ -169,6 +169,3 @@ footer h4 {
     background-color: #0072bb;
     color: #ffffff;
 }
-
-
-
