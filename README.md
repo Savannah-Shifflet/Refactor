@@ -17,7 +17,7 @@ The updated langing page for Horiseon Social Solution Services, Inc. can be view
 
 ## Credits
 
-N/A
+The University of Texas at Austin coding bootcamp. 
 
 ## License
 
